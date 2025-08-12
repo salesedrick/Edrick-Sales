@@ -1,4 +1,4 @@
-# Edrick-Sales-ADS-Cruzeiro-do-Sul-Virtual
+# Edrickss
 Repositório inicial com meus primeiros projetos e aprendizados em ADS
 # Olá, eu sou o Edrick Sales 
 
