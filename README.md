@@ -16,8 +16,8 @@ Interesse em unir o mundo jurídico à tecnologia, desenvolvendo soluções que 
 ---
 
 ## Projetos em destaque
-- [Calculadora de orçamento pessoal (Python)](link_projeto) – Automação para cálculo de orçamento pessoal
-- [Página Pessoal (HTML/CSS)](link_projeto) – Página simples de apresentação pessoal.
+- [Calculadora de orçamento pessoal (Python)](https://github.com/salesedrick/calculadora-de-or-amento-pessoal/blob/c2e6e7cacad9ecd7dbe70f30a158081f64930a5c/Calculadora%20de%20Or%C3%A7amento%20Pessoal.py) – Automação para cálculo de orçamento pessoal
+
 
 ---
 
