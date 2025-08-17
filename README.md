@@ -1,5 +1,5 @@
 # Edrick Sales
-Repositório inicial com meus primeiros projetos e aprendizados em ADS
+Repositório inicial com meus primeiros passos em ADS
 # Olá, eu sou o Edrick Sales 
 
 **Bacharel em Direito** e atualmente estudante de **Análise e Desenvolvimento de Sistemas** (Cruzeiro do Sul Virtual - EAD).  
